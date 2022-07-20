@@ -1,7 +1,8 @@
 @font-face { font-family: NHL; font-weight: bold; src: url("fonts/nhl.ttf");}
 
 body{
-    background-color:white;
+    background-image:url(images/background.png);
+    background-size: cover;
     color:black;
     text-align: center;
     }
@@ -20,10 +21,8 @@ font-weight: bold;
 }
 
 main{
-    background-image:url(images/background.png);
-        background-size: cover;
     min-height:500px;
-    
+    background-color:white;
 }
 
 footer{font-size:0.75em;
