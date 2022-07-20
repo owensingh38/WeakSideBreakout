@@ -4,7 +4,6 @@ body{
     background-color:white;
     color:black;
     text-align: center;
-    background-size: cover;
     }
   
 header{font-family: NHL, Arial, Helvetica, sans-serif;
@@ -20,7 +19,9 @@ font-family:'Times New Roman', Times, serif;
 font-weight: bold;
 }
 
-main{background-image:url(images/background.png);
+main{
+    background-image:url(images/background.png);
+        background-size: cover;
     min-height:500px;
     
 }
