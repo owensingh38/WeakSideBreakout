@@ -1,6 +1,7 @@
 @font-face { font-family: NHL; font-weight: bold; src: url("fonts/nhl.ttf");}
 
-body{background-image:url(images/background.png);
+body{
+    background-image:url(images/background.png);
     background-repeat:no-repeat;
     color:black;
     text-align: center;
