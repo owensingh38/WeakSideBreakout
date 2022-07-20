@@ -4,6 +4,7 @@ body{background-image:url(images/background.png);
     background-repeat:no-repeat;
     color:black;
     text-align: center;
+    background-size: cover;
     }
   
 header{font-family: NHL, Arial, Helvetica, sans-serif;
